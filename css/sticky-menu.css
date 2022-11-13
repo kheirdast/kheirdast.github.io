@@ -60,6 +60,12 @@ html {
     text-align: center;
     background: #fff;
 }
+.article-section {
+    height: 40%;
+    padding-top: 10px;
+    text-align: left;
+    background: #EBEBEB;;
+}
 .contact-section {
     height: 100%;
     padding-top: 150px;
